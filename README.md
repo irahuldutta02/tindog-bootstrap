@@ -1,4 +1,4 @@
 # tindog-bootstrap
-bootstrap project tinder like application for dogs.
+bootstrap project - tinder like application for dogs.
 
-![Web capture_28-12-2022_114710_127 0 0 1](https://user-images.githubusercontent.com/78687135/209767660-9671cd61-ecce-438b-ba6d-8016e780d0cc.jpeg)
+![screencapture-irahuldutta02-github-io-tindog-bootstrap-2022-12-28-13_15_13](https://user-images.githubusercontent.com/78687135/209777123-0b7f8512-e8cb-43b9-99bc-d3ba1c3b60a4.png)
